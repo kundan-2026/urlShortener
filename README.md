@@ -10,12 +10,9 @@ This repository contains my submission for the **Afford Medical Technologies** h
 - 🌐 Frontend React App – URL Shortener built with Vite + React
 
 ---
+## 🖼️ Screenshot
 
-## 🔹 Logging Middleware
-
-A simple Express.js middleware that logs each HTTP request with:
-- Method (GET, POST, etc.)
-- Requested URL
+![App Screenshot](./screenshot.png)
 
 ### Example Use in Express:
 ```js
