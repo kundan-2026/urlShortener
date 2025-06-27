@@ -12,7 +12,7 @@ This repository contains my submission for the **Afford Medical Technologies** h
 ---
 ## 🖼️ Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](screenshort.png)
 
 ### Example Use in Express:
 ```js
