@@ -1,13 +1,11 @@
-# 22131010923 – Test Submission
-
-This repository contains my submission for the **Afford Medical Technologies** hiring process under the **Frontend Development** track.  
- **Frontend Project** are included in this single folder.
-
----
-
 ## 📁 Contents
 
 - 🌐 Frontend React App – URL Shortener built with Vite + React
+
+<h2>🚀 Live Preview</h2>
+
+🔗 <a href="https://urlshort-link.netlify.app/" target="_blank">Click here to view urlShort Live</a>  
+
 
 ---
 ## 🖼️ Screenshot
